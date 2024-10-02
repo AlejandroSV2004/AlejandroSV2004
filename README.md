@@ -6,11 +6,16 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Alejandro Francisco Sornoza Vera
+* Ocupación: Estudiante de Ingeniería en Computación.
+* Lugar de residencia: Guayaquil, Ecuador
+* Sitio web: -
 ## Proyectos
-* [Lista de tus proyectos]
+* Una página web funcional para gestionar calificaciones de los estudiantes y pronosticar promedios.
 ## Intereses
-* [Lista de tus intereses]
+* Música
+* Estadística
+* Ciencia de datos
+* Videojuegos
+* Programación
+* Seguridad de sistemas
