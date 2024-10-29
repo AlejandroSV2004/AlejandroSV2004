@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Cocogoose';
+    src: url('./src/fonts/cocogoose/Cocogoose-Pro-Bold-trial.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('./src/fonts/roboto/Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'RobotoLight';
+    src: url('./src/fonts/roboto/Roboto-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
