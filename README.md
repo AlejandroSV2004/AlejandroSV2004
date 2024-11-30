@@ -24,13 +24,16 @@ Actualmente estoy cursando mi **quinto semestre**, en el cual estoy tomando la m
 - **Markup Language**  
   Un lenguaje de marcado es un sistema que utiliza etiquetas o marcas para definir la estructura y el significado del contenido dentro de un documento. Ejemplos comunes incluyen HTML y XML. Estos lenguajes no son de programación, ya que no ejecutan lógica, sino que organizan datos para que puedan ser interpretados o presentados de forma específica.
 
+- **GitHub Pages**  
+  Es un servicio gratuito proporcionado por GitHub que permite alojar páginas web directamente desde un repositorio de GitHub. Este servicio utiliza los archivos de tu repositorio para generar una página estática que puede ser personalizada con HTML, CSS y JavaScript. GitHub Pages es ideal para portafolios, documentación, blogs y proyectos personales.
+
 ---
 # Proyectos
 
 ## Proyecto 1: Página web con CSS y HTML de currículum vitae
 ![Currículum](/img/curriculum.png)
 
-Este proyecto consiste en una página web que actúa como un currículum vitae digital. Utiliza **HTML** y **CSS** para mostrar de manera estructurada y visual la información personal y profesional.
+Este proyecto consiste en una página web que actúa como un currículum vitae digital. Utiliza **HTML** y **CSS** para mostrar de manera estructurada y visual la información personal y profesional. Luego, desplegué el sitio utilizando GitHubPages, de esta forma pude hostearlo.
 [Repositorio](https://github.com/AlejandroSV2004/curriculum)
 
 ---
@@ -42,6 +45,7 @@ Este proyecto es una landing page que incluye:
 - Uso de **fetch** con métodos **GET** y **POST** para interactuar con una base de datos en **Firebase**.
 - Contenido dinámico generado mediante JavaScript, como el llenado de una tabla con datos obtenidos de Firebase.
 - Modificación de una plantilla "Kaira" tanto en HTML como en CSS para la estructura del sitio.
+Luego, desplegué el sitio utilizando GitHubPages, de esta forma pude hostearlo.
 [Repositorio](https://github.com/AlejandroSV2004/ProyectoLanding)
 
 ---
@@ -49,7 +53,7 @@ Este proyecto es una landing page que incluye:
 ## Proyecto 3: Página web del desarrollador
 ![Desarrollador](/img/desarrollador.png)
 
-Este proyecto es la página web personal del desarrollador. Diseñada para mostrar mis proyectos y habilidades, en esta página únicamente utilicé lenguaje de marcado, para actualizar el README.MD y poder elaborar mi sitio personal.
+Este proyecto es la página web personal del desarrollador. Diseñada para mostrar mis proyectos y habilidades, en esta página únicamente utilicé lenguaje de marcado, para actualizar el README.MD y poder elaborar mi sitio personal. Luego, desplegué el sitio utilizando GitHubPages, de esta forma pude hostearlo.
 [Repositorio](https://github.com/AlejandroSV2004/AlejandroSV2004)
 
 ---
