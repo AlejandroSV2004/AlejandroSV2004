@@ -40,12 +40,13 @@ Este proyecto consiste en una página web que actúa como un currículum vitae d
 Este proyecto es una landing page que incluye:
 - Uso de **fetch** con métodos **GET** y **POST** para interactuar con una base de datos en **Firebase**.
 - Contenido dinámico generado mediante JavaScript, como el llenado de una tabla con datos obtenidos de Firebase.
+- Modificación de una plantilla "Kaira" tanto en HTML como en CSS para la estructura del sitio.
 
 ---
 
 ## Proyecto 3: Página web del desarrollador
 ![Imagen del Proyecto 3](/img/desarrollador.png)
 
-Este proyecto es la página web personal del desarrollador (¡la que estás viendo ahora!). Diseñada para mostrar tus proyectos y habilidades, combina **HTML**, **CSS** y **JavaScript** para una experiencia interactiva y profesional.
+Este proyecto es la página web personal del desarrollador. Diseñada para mostrar mis proyectos y habilidades, en esta página únicamente utilicé lenguaje de marcado, para actualizar el README.MD y poder elaborar mi sitio personal.
 
 ---
