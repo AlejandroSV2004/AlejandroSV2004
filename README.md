@@ -28,25 +28,28 @@ Actualmente estoy cursando mi **quinto semestre**, en el cual estoy tomando la m
 # Proyectos
 
 ## Proyecto 1: Página web con CSS y HTML de currículum vitae
-![Imagen del Proyecto 1](/img/curriculum.png)
+![Currículum](/img/curriculum.png)
 
 Este proyecto consiste en una página web que actúa como un currículum vitae digital. Utiliza **HTML** y **CSS** para mostrar de manera estructurada y visual la información personal y profesional.
+[Repositorio](https://github.com/AlejandroSV2004/curriculum)
 
 ---
 
 ## Proyecto 2: Landing Page con HTML, CSS y JavaScript
-![Imagen del Proyecto 2](/img/landing.png)
+![Landing](/img/landing.png)
 
 Este proyecto es una landing page que incluye:
 - Uso de **fetch** con métodos **GET** y **POST** para interactuar con una base de datos en **Firebase**.
 - Contenido dinámico generado mediante JavaScript, como el llenado de una tabla con datos obtenidos de Firebase.
 - Modificación de una plantilla "Kaira" tanto en HTML como en CSS para la estructura del sitio.
+[Repositorio](https://github.com/AlejandroSV2004/ProyectoLanding)
 
 ---
 
 ## Proyecto 3: Página web del desarrollador
-![Imagen del Proyecto 3](/img/desarrollador.png)
+![Desarrollador](/img/desarrollador.png)
 
 Este proyecto es la página web personal del desarrollador. Diseñada para mostrar mis proyectos y habilidades, en esta página únicamente utilicé lenguaje de marcado, para actualizar el README.MD y poder elaborar mi sitio personal.
+[Repositorio](https://github.com/AlejandroSV2004/AlejandroSV2004)
 
 ---
