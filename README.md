@@ -25,3 +25,27 @@ Actualmente estoy cursando mi **quinto semestre**, en el cual estoy tomando la m
   Un lenguaje de marcado es un sistema que utiliza etiquetas o marcas para definir la estructura y el significado del contenido dentro de un documento. Ejemplos comunes incluyen HTML y XML. Estos lenguajes no son de programación, ya que no ejecutan lógica, sino que organizan datos para que puedan ser interpretados o presentados de forma específica.
 
 ---
+# Proyectos
+
+## Proyecto 1: Página web con CSS y HTML de currículum vitae
+![Imagen del Proyecto 1](/img/curriculum.png)
+
+Este proyecto consiste en una página web que actúa como un currículum vitae digital. Utiliza **HTML** y **CSS** para mostrar de manera estructurada y visual la información personal y profesional.
+
+---
+
+## Proyecto 2: Landing Page con HTML, CSS y JavaScript
+![Imagen del Proyecto 2](/img/landing.png)
+
+Este proyecto es una landing page que incluye:
+- Uso de **fetch** con métodos **GET** y **POST** para interactuar con una base de datos en **Firebase**.
+- Contenido dinámico generado mediante JavaScript, como el llenado de una tabla con datos obtenidos de Firebase.
+
+---
+
+## Proyecto 3: Página web del desarrollador
+![Imagen del Proyecto 3](/img/desarrollador.png)
+
+Este proyecto es la página web personal del desarrollador (¡la que estás viendo ahora!). Diseñada para mostrar tus proyectos y habilidades, combina **HTML**, **CSS** y **JavaScript** para una experiencia interactiva y profesional.
+
+---
